@@ -1,0 +1,3 @@
+<Project>
+  <Import Project="..\buildMultiTargeting\ChapterUC17.props" />
+</Project>
